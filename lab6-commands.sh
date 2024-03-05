@@ -104,3 +104,4 @@ sudo netplan apply
 #ens33 is the default
 #ens37 is VMNet2
 #ens38 is VMNet3
+# update the Kali interface file with the additional interface info
